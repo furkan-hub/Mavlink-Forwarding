@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mavlink_forwarding.dir/mavlink_forwarding.cpp.o  -o mavlink_forwarding  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmavsdk.so.2.12.2 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/furkan/MAVSDK/examples/mavlink_forwarding/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/mavsdk  -g   -std=gnu++17 -o CMakeFiles/mavlink_forwarding.dir/mavlink_forwarding.cpp.o -c /home/furkan/MAVSDK/examples/mavlink_forwarding/mavlink_forwarding.cpp",
+  "file": "/home/furkan/MAVSDK/examples/mavlink_forwarding/mavlink_forwarding.cpp"
+}
+]

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/furkan/MAVSDK/examples/mavlink_forwarding/mavlink_forwarding.cpp
+chrono
+-
+cstdint
+-
+mavsdk/mavsdk.h
+-
+iostream
+-
+future
+-
+memory
+-
+thread
+-
+
